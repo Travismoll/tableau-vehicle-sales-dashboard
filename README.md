@@ -7,7 +7,7 @@
 ## Key Features
 - Revenue trend over time
 - Sales by state
-- Top 20 models by revenue
+- Top 10 models by revenue
 - % of sales above market value (MMR)
 
 ![Dashboard Screenshot](Vehicle_Sales_Dashboard.png)
